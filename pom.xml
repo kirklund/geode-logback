@@ -25,7 +25,7 @@
     <repositories>
         <repository>
             <id>nightly-snapshot</id>
-            <url>http://maven.apachegeode-ci.info/snapshots</url>
+            <url>https://maven.apachegeode-ci.info/snapshots</url>
         </repository>
     </repositories>
 
